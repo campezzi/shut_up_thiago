@@ -2,6 +2,7 @@
 
 Tired of Thiago hijacking meetings? Constantly getting discussions derailed? Your problems are over! Print your "Shut Up Thiago" card today!
 
+![Card Preview](https://github.com/campezzi/shut_up_thiago/blob/master/preview.png)
 
 ## Contributing
 
